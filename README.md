@@ -1,6 +1,6 @@
 # Optimizing Warehouse Demand Forecasting with ARIMA Models
 
-Authors:  **NANDINI MAHESHWARI** & **SRIKANT HAMSA**.
+Authors:  **SRIKANT HAMSA** & **NANDINI MAHESHWARI** 
 
 ---
 
@@ -23,10 +23,6 @@ Book by Peter J. Brockwell and Richard A. Davis, Production and Operations Analy
 - The dataset contains historical product demand for a manufacturing company with footprints globally. 
 - The company provides thousands of products within dozens of product categories for 7 years. There are four central warehouses to ship products within the region it is responsible for.
 - The data is available in the .csv format which allows us to perform the dataframe operations easily.
-
----
-
-## 5 Steps towards Forecasting
 
 ---
 
