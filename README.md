@@ -1,6 +1,6 @@
 # Optimizing Warehouse Demand Forecasting with ARIMA Models
 
-Authors:  **SRIKANT HAMSA** & **NANDINI MAHESHWARI** 
+Author:  **SRIKANT HAMSA**
 
 ---
 
